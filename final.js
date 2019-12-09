@@ -14,6 +14,14 @@ var brushType = "CIRCLE";
 var pbrushType = "CIRCLE";
 var isPlaying = true;
 var isMenuHide = false;
+var mySoundvoice;
+var mySounda;
+
+function preload() {
+  mySoundvoice = loadSound("voice.mp3");
+  mySounda = loadSound("aa.mp3");
+  
+}
 
 function ColorBtn(X, Y, W, H, givenR, givenG, givenB) {
   this.x = X;
@@ -120,6 +128,7 @@ function draw() {
   timepast += 1 / FPS;
  
   if (mouseIsPressed && (mouseX > 40 || isMenuHide)) {
+    
     if (brushType == "CIRCLE" ) {
       var position = createVector(mouseX, mouseY);
       objs.push(new Node(position, sqrt(sq(mouseX - pmouseX) + sq(mouseY - pmouseY)), R, G, B));
@@ -153,11 +162,13 @@ function draw() {
   }
 }
 
-function mouseClicked() {
+function mouseClicked() {  
+  mySounda.play()
   if (!isMenuHide) {
     for (var i = 0; i < btns.length; i++) {
       if (btns[i].isMouseInBtn()) {
         btns[i].clickBtn();
+         mySoundvoice.play();
       }
     }
   }
