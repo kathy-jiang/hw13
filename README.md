@@ -39,6 +39,6 @@ https://youtube.com/watch?v=MthVGoAINjQ
 
 https://www.youtube.com/watch?v=UcdigVaIYAk
 
-![](reference artboard)
+![](https://github.com/kathy-jiang/hw13/blob/master/reference%20art%20board.png)
 
 Easy online drawing board I reference for the arrangement and function.
