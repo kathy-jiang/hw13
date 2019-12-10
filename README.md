@@ -31,7 +31,7 @@ Week 3: Adding more function buttons and sound to completely finish the coding
 First of all how to create the right idea for my final project is pretty hard and confusing. In the process of researching of how to create drawing board and research about the function of the drawing board is also interesting but hard. Because it is hard to add the interesting function button and make them work well.
 
 ## Completed Work
-![](completed work)
+![](https://github.com/kathy-jiang/hw13/blob/master/completed%20work.png)
 
 ## References and links
 
