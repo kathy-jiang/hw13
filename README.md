@@ -31,21 +31,7 @@ Week 3: Adding more function buttons and sound to completely finish the coding
 First of all how to create the right idea for my final project is pretty hard and confusing. In the process of researching of how to create drawing board and research about the function of the drawing board is also interesting but hard. Because it is hard to add the interesting function button and make them work well.
 
 ## Completed Work
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{!completed work}
 
 ## References and links
 
@@ -53,5 +39,6 @@ https://youtube.com/watch?v=MthVGoAINjQ
 
 https://www.youtube.com/watch?v=UcdigVaIYAk
 
+{!reference artboard}
 
 Easy online drawing board I reference for the arrangement and function.
