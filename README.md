@@ -49,7 +49,7 @@ First of all how to create the right idea for my final project is pretty hard an
 
 ## References and links
 
-youtube.com/watch?v=MthVGoAINjQ
+https://youtube.com/watch?v=MthVGoAINjQ
 
 https://www.youtube.com/watch?v=UcdigVaIYAk
 
